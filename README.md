@@ -15,7 +15,7 @@ I'm always open to collaborating on exciting projects, particularly in the realm
 If you'd like to get in touch, here are a few ways you can reach me:
 
 - Twitter: [@DuckyDev007](https://twitter.com/DuckyDev007)
-- Discord: DuckyDev#4287
+- Discord: .duckydev
 - Email: duckbox007@pm.me
 
 Don't hesitate to reach out if you have any questions, suggestions, or just want to connect. I'm always eager to engage with fellow developers and enthusiasts.
