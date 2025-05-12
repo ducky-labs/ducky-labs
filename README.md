@@ -1,4 +1,4 @@
-# ducky-labs 🐤
+# DuckyLabs 🐤
 
 Network & systems engineer with a passion for automation and infrastructure code.
 
